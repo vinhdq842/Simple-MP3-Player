@@ -68,8 +68,8 @@ public class Song implements Serializable {
     }
 
     /**
-     * tests if the provided info is null or empty.
-     * @return "?" when the provided info is either null or empty, else return the tested info.
+     * tests if the given info is null or empty.
+     * @return "?" when the info is either null or empty, else return the tested info.
      */
     private String testInfo(String info) {
         if (info == null) return "?";

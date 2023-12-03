@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Simple Mp3 Player:jar">
-    <output-path>$PROJECT_DIR$/classes/artifacts/Simple_Mp3_Player_jar</output-path>
-    <root id="archive" name="Simple Mp3 Player.jar">
-      <element id="module-output" name="Simple Mp3 Player" />
-      <element id="extracted-dir" path="E:/jlayer-1.0.1.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
